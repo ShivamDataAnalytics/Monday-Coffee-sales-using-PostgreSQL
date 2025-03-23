@@ -1,4 +1,4 @@
-# Monday-Coffee-sales-using-PostgreSQL
+# Monday-Coffee-sales analysis-using-PostgreSQL
 
 
 **Objective**
